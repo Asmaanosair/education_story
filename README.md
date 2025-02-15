@@ -1,8 +1,3 @@
- Go Quiz App - Docker & Postman Guide
-
-This project uses Docker Compose to manage services and Postman to test the API.
-
-🛠 Running the Project with Docker Compose
 
 Ensure Docker and Docker Compose are installed
 
